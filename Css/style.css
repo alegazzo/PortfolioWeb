@@ -109,3 +109,27 @@ height: 60px;
 .footer{
     float: right;
 }
+.icon{
+    margin: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.icon a img{
+    margin-right: 30px;
+    margin-left: 30px;
+    width: 60px;
+    height: 60px;
+}
+
+#cuerpo{
+    font-size: 20px;
+}
+
+#CV{
+    margin: 60px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
